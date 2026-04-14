@@ -1,4 +1,3 @@
-import pandas
 import pandas as pd
 df=pd.read_csv("ITA105_Lab_1.csv")
 print("Kích thước dữ liệu:",{df.shape})
